@@ -40,7 +40,7 @@
     
     return YES;
     
-    This is a changge
+    
 }
 							
 - (void)applicationWillResignActive:(UIApplication *)application
